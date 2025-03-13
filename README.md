@@ -1,1 +1,1 @@
-echo "# blog"
+I'm NEIT
